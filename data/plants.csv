@@ -1,0 +1,26 @@
+,plant,latitude,longitude,capacity_kg,chemical_material
+0,Houston,29.749907,-95.358421,29808,Ammonia
+1,Houston,29.749907,-95.358421,33898,Methanol
+2,Houston,29.749907,-95.358421,19542,Sulfuric Acid
+3,Houston,29.749907,-95.358421,6457,Ethylene
+4,Houston,29.749907,-95.358421,5068,Benzene
+5,Atlanta,33.7501,-84.3885,21045,Ammonia
+6,Atlanta,33.7501,-84.3885,44659,Methanol
+7,Atlanta,33.7501,-84.3885,13818,Sulfuric Acid
+8,Atlanta,33.7501,-84.3885,24483,Ethylene
+9,Atlanta,33.7501,-84.3885,32738,Benzene
+10,San Diego,32.7157,-117.1611,46906,Ammonia
+11,San Diego,32.7157,-117.1611,39403,Methanol
+12,San Diego,32.7157,-117.1611,39821,Sulfuric Acid
+13,San Diego,32.7157,-117.1611,23861,Ethylene
+14,San Diego,32.7157,-117.1611,34353,Benzene
+15,Seattle,47.6061,-122.3328,26500,Ammonia
+16,Seattle,47.6061,-122.3328,27117,Methanol
+17,Seattle,47.6061,-122.3328,5855,Sulfuric Acid
+18,Seattle,47.6061,-122.3328,7475,Ethylene
+19,Seattle,47.6061,-122.3328,22052,Benzene
+20,Cleveland,41.4993,-81.6944,42868,Ammonia
+21,Cleveland,41.4993,-81.6944,29150,Methanol
+22,Cleveland,41.4993,-81.6944,15593,Sulfuric Acid
+23,Cleveland,41.4993,-81.6944,37187,Ethylene
+24,Cleveland,41.4993,-81.6944,29096,Benzene

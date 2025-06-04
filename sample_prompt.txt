@@ -1,0 +1,6 @@
+create an interactive dashboard with the following elements
+- filters on plant and material
+- Provide KPIs for capcity, plant locations and materials
+- Bar chart showing plant vs capacity sorted by capacity
+- give a good visual for understanding material capacity by plant
+- plot the plants in a map with information on total capcity
